@@ -7,3 +7,5 @@ function getMessage() {
 }
 
 getMessage().then(result => console.log(result));
+
+console.log(1);
